@@ -1,0 +1,37 @@
+[
+    {
+        "firstName": "Peter",
+        "lastName": "Griffin",
+        "email": "petergriffin@email.com"
+    },
+    {
+        "firstName": "Brian",
+        "lastName": "Griffin",
+        "email": "briangriffin@email.com"
+    },
+    {
+        "firstName": "Meg",
+        "lastName": "Griffin",
+        "email": "meggriffin@email.com"
+    },
+    {
+        "firstName": "Cleveland",
+        "lastName": "Brown",
+        "email": "clevelandbrown@email.com"
+    },
+    {
+        "firstName": "Glenn",
+        "lastName": "Quagmire",
+        "email": "glennquagmire@email.com"
+    },
+    {
+        "firstName": "Joe",
+        "lastName": "Swanson",
+        "email": "petergriffin@email.com"
+    },
+    {
+        "firstName": "Lois",
+        "lastName": "Griffin",
+        "email": "loisgriffin@email.com"
+    }
+]
